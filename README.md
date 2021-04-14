@@ -5,7 +5,7 @@ A small portfolio made up of a couple assignments done at SAIT as well as a litt
 For a CSS assignment in class, I decided to do a website for a horse barn as that is something I am passionate about!  Website link: https://lkruger93.github.io/big-bounty/
 
 ## Card
-Did an assignment for a team card where I chose to do something unique and make a sports profile card for quidditch.  It was a unique and fun challenge which I definitely enjoyed both for the design and its uniqueness.  Pages link: https://lkruger93.github.io/cpnt260-a2/
+Did an assignment for a team card where I chose to do something unique and make a sports profile card for quidditch.  It was a unique and fun challenge which I definitely enjoyed both for the design and its uniqueness.  Pages link: https://lkruger93.github.io/quidditch-card/
 
 ## Design
 A personal project where I used my CSS skills to make a one page static website about something I'm passionate about as well!  *currently unfinished*
