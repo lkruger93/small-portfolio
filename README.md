@@ -15,5 +15,9 @@ Link: https://lkruger93.github.io/video-games/
 A project completed for my final project at SAIT!  It's for a fictional animal shelter and features PHP, JavaScript, SVGs, CSS, HTML, and pictures all taken by me.
 Link: https://fluffy-friends.herokuapp.com/index.php
 
+## CMS live website
+Built during my Internship at Castle Toys with Shopify, this is a live and functioning website used for a small business.
+Link: https://castletoys.ca/
+
 ## Dribbble
 Have a Dribbble portfolio/profile which unfortunately is not very long as of yet, it mostly features works from before I began at SAIT so there was a definite learning curve involved in it!  Link: https://dribbble.com/lkruger
