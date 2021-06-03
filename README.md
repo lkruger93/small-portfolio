@@ -1,6 +1,9 @@
 # small-portfolio
 A small portfolio made up of a couple assignments done at SAIT as well as a little of my own personal challenges!  I would love to build this over time as I work more on design and my skills improve!
 
+## CodePen
+A fun and unique CodePen I created with HTML, CSS, JavaScript and an SVG. Link: https://codepen.io/lauren-kruger-the-vuer/pen/LYWQMWx
+
 ## 5 page static website
 For a CSS assignment in class, I decided to do a website for a horse barn as that is something I am passionate about!  Website link: https://lkruger93.github.io/big-bounty/
 
